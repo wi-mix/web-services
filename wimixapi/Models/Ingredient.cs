@@ -14,5 +14,7 @@ namespace wimixapi.Models
         public short Amount { get; set; }
 
         public int IngredientId { get; set; }
+        
+        public long ZobristKey { get; set; }
     }
 }

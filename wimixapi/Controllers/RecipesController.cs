@@ -21,13 +21,36 @@ namespace wimixapi.Controllers
         [HttpPost]
         public void Post([FromBody]IEnumerable<Ingredient> ingredients)
         {
+            var zobrists = getZobrists(ingredients.Select(i => i.ZobristKey));
 
+            
         }
 
         // PUT api/values/5
         [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
         {
+        }
+
+        public IEnumerable<long> getZobrists(IEnumerable<long> keys)
+        {
+            var zobrists = new List<long>();
+            long zobristKey = 0;
+            for (int i = 0; i < 1 << keys.Count(); i++)
+            {
+                for(int j = 0; j < keys.Count(); j++)
+                {
+                    if( (i & (1 << j)) > 0)
+                    {
+                        zobristKey ^= keys.ElementAt(j);
+                    }
+                }
+                zobrists.Add(zobristKey);
+                zobristKey = 0;
+            }
+            //We do not need the empty member of the power set
+            zobrists.Remove(0);
+            return zobrists;
         }
     }
 }

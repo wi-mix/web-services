@@ -12,5 +12,7 @@ namespace wimixapi.Models
         public IEnumerable<Ingredient> Ingredients { get; set; }
         public int RecipeId { get; set; }
 
+        public long ZobristKey { get; set; }
+
     }
 }
