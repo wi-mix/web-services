@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wimixapi", "wimixapi\wimixa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "wimixapi.Test", "wimixapi.Test\wimixapi.Test.csproj", "{A324E4D8-ED22-4139-8969-B9D5D2CC9699}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "WimixData", "WimixData\WimixData.sqlproj", "{B90A8DA5-25F1-4BC8-9332-67ABF90BB4FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,12 @@ Global
 		{A324E4D8-ED22-4139-8969-B9D5D2CC9699}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A324E4D8-ED22-4139-8969-B9D5D2CC9699}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A324E4D8-ED22-4139-8969-B9D5D2CC9699}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90A8DA5-25F1-4BC8-9332-67ABF90BB4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90A8DA5-25F1-4BC8-9332-67ABF90BB4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90A8DA5-25F1-4BC8-9332-67ABF90BB4FA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B90A8DA5-25F1-4BC8-9332-67ABF90BB4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90A8DA5-25F1-4BC8-9332-67ABF90BB4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B90A8DA5-25F1-4BC8-9332-67ABF90BB4FA}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
