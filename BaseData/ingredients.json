@@ -1,0 +1,402 @@
+﻿[
+  {
+    "Name": "Dark Rum",
+    "Description": "Made of molasses"
+  },
+  {
+    "Name": "Spiced Rum",
+    "Description": "Made of pirates"
+  },
+  {
+    "Name": "White Rum",
+    "Description": "Made of molasses"
+  },
+  {
+    "Name": "Vodka",
+    "Description": "Clear and tasteless"
+  },
+  {
+    "Name": "Water",
+    "Description": ""
+  },
+  {
+    "Name": "Orange Juice",
+    "Description": "Made of oranges"
+  },
+  {
+    "Name": "Iced Tea",
+    "Description": ""
+  },
+  {
+    "Name": "Cola",
+    "Description": ""
+  },
+  {
+    "Name": "Lemon Lime Soda",
+    "Description": ""
+  },
+  {
+    "Name": "Milk",
+    "Description": ""
+  },
+  {
+    "Name": "Coffee",
+    "Description": ""
+  },
+  {
+    "Name": "Gingerale",
+    "Description": ""
+  },
+  {
+    "Name": "Root Beer",
+    "Description": ""
+  },
+  {
+    "Name": "Bitters",
+    "Description": ""
+  },
+  {
+    "Name": "Coffee Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Butter Ripple Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Scotch",
+    "Description": ""
+  },
+  {
+    "Name": "Rye",
+    "Description": ""
+  },
+  {
+    "Name": "Cabernet Sauvignon",
+    "Description": ""
+  },
+  {
+    "Name": "Shiraz Durif",
+    "Description": ""
+  },
+  {
+    "Name": "White Zinfandel",
+    "Description": ""
+  },
+  {
+    "Name": "Champagne",
+    "Description": ""
+  },
+  {
+    "Name": "Diet Sprite",
+    "Description": ""
+  },
+  {
+    "Name": "Diet Cola",
+    "Description": ""
+  },
+  {
+    "Name": "Egg White",
+    "Description": ""
+  },
+  {
+    "Name": "Grenadine",
+    "Description": ""
+  },
+  {
+    "Name": "Cider",
+    "Description": ""
+  },
+  {
+    "Name": "Lager",
+    "Description": ""
+  },
+  {
+    "Name": "Stout",
+    "Description": ""
+  },
+  {
+    "Name": "IPA",
+    "Description": ""
+  },
+  {
+    "Name": "Porter",
+    "Description": ""
+  },
+  {
+    "Name": "Amber Ale",
+    "Description": ""
+  },
+  {
+    "Name": "Brown Ale",
+    "Description": ""
+  },
+  {
+    "Name": "Pineapple Juice",
+    "Description": ""
+  },
+  {
+    "Name": "Lemon Juice",
+    "Description": ""
+  },
+  {
+    "Name": "Lime Juice",
+    "Description": ""
+  },
+  {
+    "Name": "Apple Juice",
+    "Description": ""
+  },
+  {
+    "Name": "Mango Juice",
+    "Description": ""
+  },
+  {
+    "Name": "Gin",
+    "Description": ""
+  },
+  {
+    "Name": "Vermouth",
+    "Description": ""
+  },
+  {
+    "Name": "Cherry Brandy",
+    "Description": ""
+  },
+  {
+    "Name": "Brandy",
+    "Description": ""
+  },
+  {
+    "Name": "Irish Cream",
+    "Description": ""
+  },
+  {
+    "Name": "Sambuca",
+    "Description": ""
+  },
+  {
+    "Name": "Coffee Brandy",
+    "Description": ""
+  },
+  {
+    "Name": "Grand Marnier",
+    "Description": ""
+  },
+  {
+    "Name": "Blue Curacao",
+    "Description": ""
+  },
+  {
+    "Name": "Triple Sec",
+    "Description": ""
+  },
+  {
+    "Name": "Peach Brandy",
+    "Description": ""
+  },
+  {
+    "Name": "Chambord",
+    "Description": ""
+  },
+  {
+    "Name": "Amaretto",
+    "Description": ""
+  },
+  {
+    "Name": "Apricot Brandy",
+    "Description": ""
+  },
+  {
+    "Name": "Everclear",
+    "Description": ""
+  },
+  {
+    "Name": "Absinthe",
+    "Description": ""
+  },
+  {
+    "Name": "Wheat Beer",
+    "Description": ""
+  },
+  {
+    "Name": "Citrus Beer",
+    "Description": ""
+  },
+  {
+    "Name": "Marzen",
+    "Description": ""
+  },
+  {
+    "Name": "Dunkel",
+    "Description": ""
+  },
+  {
+    "Name": "Cognac",
+    "Description": ""
+  },
+  {
+    "Name": "Peach Schnapps",
+    "Description": ""
+  },
+  {
+    "Name": "Butterscotch Schnapps",
+    "Description": ""
+  },
+  {
+    "Name": "Club Soda",
+    "Description": ""
+  },
+  {
+    "Name": "Cream Soda",
+    "Description": ""
+  },
+  {
+    "Name": "Tequila",
+    "Description": ""
+  },
+  {
+    "Name": "Sake",
+    "Description": ""
+  },
+  {
+    "Name": "Soju",
+    "Description": ""
+  },
+  {
+    "Name": "Almond Milk",
+    "Description": ""
+  },
+  {
+    "Name": "Soy Milk",
+    "Description": ""
+  },
+  {
+    "Name": "Coconut Milk",
+    "Description": ""
+  },
+  {
+    "Name": "Chocolate Milk",
+    "Description": ""
+  },
+  {
+    "Name": "Witbier",
+    "Description": ""
+  },
+  {
+    "Name": "Kilju",
+    "Description": ""
+  },
+  {
+    "Name": "Port",
+    "Description": ""
+  },
+  {
+    "Name": "Sangria",
+    "Description": ""
+  },
+  {
+    "Name": "Blueberry Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Cranberry Juice",
+    "Description": ""
+  },
+  {
+    "Name": "Cranberry Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Apple Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Birthday Cake Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Ginger Beer",
+    "Description": ""
+  },
+  {
+    "Name": "Melon Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Melon Juice",
+    "Description": ""
+  },
+  {
+    "Name": "Applejack",
+    "Description": ""
+  },
+  {
+    "Name": "Bourbon",
+    "Description": ""
+  },
+  {
+    "Name": "Tennessee Whiskey",
+    "Description": ""
+  },
+  {
+    "Name": "Lemonade",
+    "Description": ""
+  },
+  {
+    "Name": "Energy Drink",
+    "Description": ""
+  },
+  {
+    "Name": "Jagermeister",
+    "Description": ""
+  },
+  {
+    "Name": "Banana Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Limoncello",
+    "Description": ""
+  },
+  {
+    "Name": "Maraschino",
+    "Description": ""
+  },
+  {
+    "Name": "Green Tea",
+    "Description": ""
+  },
+  {
+    "Name": "Mint Liqueur",
+    "Description": ""
+  },
+  {
+    "Name": "Black Tea",
+    "Description": ""
+  },
+  {
+    "Name": "Merlot",
+    "Description": ""
+  },
+  {
+    "Name": "Moscato",
+    "Description": ""
+  },
+  {
+    "Name": "Mead",
+    "Description": ""
+  },
+  {
+    "Name": "Cinnamon Whisky",
+    "Description": ""
+  },
+  {
+    "Name": "Cherry Cola",
+    "Description": ""
+  },
+  {
+    "Name": "Vanilla Cola",
+    "Description": ""
+  }
+]

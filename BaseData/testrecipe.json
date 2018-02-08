@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Name": "Rum & Cola",
+    "Description": "The classic mixture of rum & cola",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "1",
+        "Amount": "50"
+      },
+      {
+        "IngredientId": "66",
+        "Amount": "150"
+      }
+    ]
+  }
+]
