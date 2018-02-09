@@ -3,33 +3,48 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using wimixapi.DataModels;
 using wimixapi.Models;
+using wimixapi.Services;
 
 namespace wimixapi.Controllers
 {
     [Route("api/[controller]")]
     public class RecipesController : Controller
     {
-        // GET api/values/5
-        [HttpGet("{id}")]
-        public string Get(int id)
+        private readonly IWimixDataService _wimixDataService;
+        public RecipesController(IWimixDataService dataService)
         {
-            return "value";
+            _wimixDataService = dataService;
+        }
+
+        // GET api/values/5
+        [HttpGet("drinks/{id}")]
+        public Recipe GetDrink(int id)
+        {
+            return _wimixDataService.GetRecipe(id);
+        }
+
+        [HttpGet("drinks/")]
+        public IEnumerable<Recipe> GetDrinks()
+        {
+            return _wimixDataService.GetRecipes();
         }
 
         // POST api/values
-        [HttpPost]
-        public void Post([FromBody]IEnumerable<Ingredient> ingredients)
+        [HttpPost("drinks/")]
+        public IEnumerable<Recipe> GetFilteredDrinks([FromBody]IEnumerable<long> ingredients)
         {
-            var zobrists = getZobrists(ingredients.Select(i => i.ZobristKey));
+            var zobrists = getZobrists(ingredients);
 
-            
+            return _wimixDataService.GetRecipes(zobrists);
+
         }
 
-        // PUT api/values/5
-        [HttpPut("{id}")]
-        public void Put(int id, [FromBody]string value)
+        [HttpGet("ingredients/")]
+        public IEnumerable<Ingredient> GetIngredients()
         {
+            return _wimixDataService.GetIngredients();
         }
 
         public IEnumerable<long> getZobrists(IEnumerable<long> keys)
