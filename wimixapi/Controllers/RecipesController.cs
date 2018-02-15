@@ -25,6 +25,12 @@ namespace wimixapi.Controllers
             return _wimixDataService.GetRecipe(id);
         }
 
+        [HttpGet("ingredients/")]
+        public IEnumerable<Ingredient> GetIngredients()
+        {
+            return _wimixDataService.GetIngredients();
+        }
+
         [HttpGet("drinks/")]
         public IEnumerable<Recipe> GetDrinks()
         {
@@ -41,11 +47,7 @@ namespace wimixapi.Controllers
 
         }
 
-        [HttpGet("ingredients/")]
-        public IEnumerable<Ingredient> GetIngredients()
-        {
-            return _wimixDataService.GetIngredients();
-        }
+        
 
         public IEnumerable<long> getZobrists(IEnumerable<long> keys)
         {

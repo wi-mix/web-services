@@ -26,11 +26,8 @@ namespace BaseData
         private void upsertRecipes()
         {
             var recipes = new List<Recipes>();
-#if DEBUG
-            var path = @".\testrecipe.json";
-#else
+
             var path = @".\recipes.json";
-#endif
             using (StreamReader sr = new StreamReader(path))
             {
                 var json = sr.ReadToEnd();

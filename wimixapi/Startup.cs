@@ -28,6 +28,8 @@ namespace wimixapi
         {
             services.AddMvc();
             var connString = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=WimixData;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=True;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
+
+            
             services.AddDbContext<WimixDataContext>();
 
             services.AddScoped<IWimixDataService, WimixDataService>();
