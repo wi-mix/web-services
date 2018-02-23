@@ -50,15 +50,11 @@
     "Ordered": "false",
     "RecipeIngredients": [
       {
-        "IngredientId": "63",
-        "Amount": "60"
-      },
-      {
-        "IngredientId": "13",
+        "IngredientId": "101",
         "Amount": "90"
       },
       {
-        "IngredientId": "101",
+        "IngredientId": "87",
         "Amount": "30"
       }
     ]

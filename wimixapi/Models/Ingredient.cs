@@ -14,7 +14,7 @@ namespace wimixapi.Models
             Name = i.Name;
             Description = i.Description;
             Key = i.IngredientId;
-            ZobristKey = i.ZobristKey;
+            ZobristKey = i.ZobristKey.ToString();
         }
 
         public string Name { get; set; }
@@ -23,6 +23,6 @@ namespace wimixapi.Models
 
         public int Key { get; set; }
         
-        public long ZobristKey { get; set; }
+        public string ZobristKey { get; set; }
     }
 }

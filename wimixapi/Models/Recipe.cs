@@ -15,7 +15,7 @@ namespace wimixapi.Models
             Name = recipe.Name;
             Description = recipe.Description;
             Key = recipe.RecipeId;
-            ZobristKey = recipe.ZobristKey;
+            ZobristKey = recipe.ZobristKey.ToString();
             Ordered = recipe.Ordered ?? false;
             Ingredients.AddRange(recipe.RecipeIngredients
                                         .Select(ri => new RecipeIngredient(ri.Amount, ri.Order, ri.Ingredient))
@@ -27,7 +27,7 @@ namespace wimixapi.Models
         public string Description { get; set; }
         public List<RecipeIngredient> Ingredients { get; set; }
         public int Key { get; set; }
-        public long ZobristKey { get; set; }
+        public string ZobristKey { get; set; }
         public bool Ordered { get; set; }
 
     }
