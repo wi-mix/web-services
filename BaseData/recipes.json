@@ -122,5 +122,750 @@
         "Amount": "120"
       }
     ]
+  },
+  {
+    "Name": "Debug Juice",
+    "Description": "Debug juice is used to manually determine if you are working. The almond milk adds a nice kick.",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "21",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "51",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "8",
+        "Amount": "120"
+      }
+    ]
+  },
+  {
+    "Name": "Blueberry Wheat Cocktail",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "24",
+        "Amount": "60"
+      },
+      {
+        "IngredientId": "20",
+        "Amount": "300"
+      },
+      {
+        "IngredientId": "91",
+        "Amount": "30"
+      }
+    ]
+  },
+  {
+    "Name": "Cuba Libre",
+    "Description": "Rum & Cola with a tangy twist",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "1",
+        "Amount": "50"
+      },
+      {
+        "IngredientId": "67",
+        "Amount": "150"
+      },
+      {
+        "IngredientId" : "90",
+        "Amount" : "30"
+      }
+    ]
+  },
+  {
+    "Name": "Diet Cuba Libre",
+    "Description": "Diet Rum & Cola with a tangy twist",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "1",
+        "Amount": "50"
+      },
+      {
+        "IngredientId": "75",
+        "Amount": "150"
+      },
+      {
+        "IngredientId" : "90",
+        "Amount" : "30"
+      }
+    ]
+  },
+  {
+    "Name": "Algonquin",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "92",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "86",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "57",
+        "Amount" : "60"
+      }
+    ]
+  },
+  {
+    "Name": "Marble Hill",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "61",
+        "Amount": "1"
+      },
+      {
+        "IngredientId": "86",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "87",
+        "Amount" : "60"
+      }
+    ]
+  },
+  {
+    "Name": "Hot Breeze",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "28",
+        "Amount": "180"
+      },
+      {
+        "IngredientId" : "28",
+        "Amount" : "30"
+      }
+    ]
+  },
+  {
+    "Name": "Spanish Colonial",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "35",
+        "Amount": "5"
+      },
+      {
+        "IngredientId": "92",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "87",
+        "Amount" : "60"
+      }
+    ]
+  },
+  {
+    "Name": "Malibu Bajan Congaline",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "72",
+        "Amount": "50"
+      },
+      {
+        "IngredientId": "26",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "90",
+        "Amount" : "10"
+      }
+    ]
+  },
+  {
+    "Name": "Mango Bellini",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "89",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "53",
+        "Amount": "90"
+      }
+    ]
+  },
+  {
+    "Name": "Brandy Float",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "84",
+        "Amount": "50"
+      },
+      {
+        "IngredientId": "13",
+        "Amount": "50"
+      }
+    ]
+  },
+  {
+    "Name": "Burt Reynolds",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "73",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "14",
+        "Amount": "30"
+      }
+    ]
+  },
+  {
+    "Name": "Baby Guiness",
+    "Description": "",
+    "Ordered": "true",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "60",
+        "Amount": "30",
+        "Order" : "1"
+      },
+      {
+        "IngredientId": "83",
+        "Amount": "10",
+        "Order" : "2"
+      }
+    ]
+  },
+  {
+    "Name": "Old Fashioned",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "41",
+        "Amount": "60"
+      },
+      {
+        "IngredientId": "61",
+        "Amount": "3"
+      },
+      {
+        "IngredientId" : "70",
+        "Amount" : "20"
+      }
+    ]
+  },
+  {
+    "Name": "Port & Starboard",
+    "Description": "",
+    "Ordered": "true",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "33",
+        "Amount": "50",
+        "Order": "1"
+      },
+      {
+        "IngredientId": "77",
+        "Amount": "25",
+        "Order" : "1"
+      }
+    ]
+  },
+  {
+    "Name": "Screwdriver",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "69",
+        "Amount": "130"
+      }
+    ]
+  },
+  {
+    "Name": "Brandy Sangaree",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "16",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "2",
+        "Amount": "45"
+      }
+    ]
+  },
+  {
+    "Name": "Presbyterian",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "58",
+        "Amount": "50"
+      },
+      {
+        "IngredientId": "63",
+        "Amount": "50"
+      }
+    ]
+  },
+  {
+    "Name": "Margarita",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "78",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "90",
+        "Amount": "45"
+      },
+      {
+        "IngredientId" : "11",
+        "Amount" : "45"
+      }
+    ]
+  },
+  {
+    "Name": "Golden Shot",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "20"
+      },
+      {
+        "IngredientId": "83",
+        "Amount": "10"
+      },
+      {
+        "IngredientId" : "41",
+        "Amount" : "20"
+      }
+    ]
+  },
+  {
+    "Name": "Blue Jay",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "20"
+      },
+      {
+        "IngredientId": "79",
+        "Amount": "20"
+      },
+      {
+        "IngredientId" : "65",
+        "Amount" : "20"
+      }
+    ]
+  },
+  {
+    "Name": "Stars and Stripes",
+    "Description": "",
+    "Ordered": "true",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "77",
+        "Amount": "20",
+        "Order" : "1"
+      },
+      {
+        "IngredientId": "65",
+        "Amount": "20",
+        "Order": "2"
+      },
+      {
+        "IngredientId" : "79",
+        "Amount" : "20",
+        "Order": "3"
+      }
+    ]
+  },
+  {
+    "Name": "ET",
+    "Description": "",
+    "Ordered": "true",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "10",
+        "Order" : "1"
+      },
+      {
+        "IngredientId": "83",
+        "Amount": "20",
+        "Order": "2"
+      },
+      {
+        "IngredientId" : "45",
+        "Amount" : "20",
+        "Order": "3"
+      }
+    ]
+  },
+  {
+    "Name": "Malibu Bullfisher",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "72",
+        "Amount": "10"
+      },
+      {
+        "IngredientId": "100",
+        "Amount": "20"
+      },
+      {
+        "IngredientId" : "46",
+        "Amount" : "20"
+      }
+    ]
+  },
+  {
+    "Name": "Boston Gold",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "60"
+      },
+      {
+        "IngredientId": "38",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "69",
+        "Amount" : "150"
+      }
+    ]
+  },
+  {
+    "Name": "Sparkling Orange",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "69",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "101",
+        "Amount" : "45"
+      }
+    ]
+  },
+  {
+    "Name": "Desert",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "69",
+        "Amount": "10"
+      },
+      {
+        "IngredientId": "87",
+        "Amount": "45"
+      },
+      {
+        "IngredientId" : "2",
+        "Amount" : "15"
+      }
+    ]
+  },
+  {
+    "Name": "Madras",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "69",
+        "Amount": "90"
+      },
+      {
+        "IngredientId" : "25",
+        "Amount" : "90"
+      }
+    ]
+  },
+  {
+    "Name": "Tequila Sunrise",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "69",
+        "Amount": "120"
+      },
+      {
+        "IngredientId": "11",
+        "Amount": "60"
+      },
+      {
+        "IngredientId" : "77",
+        "Amount" : "20"
+      }
+    ]
+  },
+  {
+    "Name": "Paralyzer",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "60",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "28",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "67",
+        "Amount" : "30"
+      }
+    ]
+  },
+  {
+    "Name": "AC",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "67",
+        "Amount": "80"
+      },
+      {
+        "IngredientId": "28",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "85",
+        "Amount" : "30"
+      }
+    ]
+  },
+  {
+    "Name": "Black Russian",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "45"
+      },
+      {
+        "IngredientId": "60",
+        "Amount": "30"
+      }
+    ]
+  },
+  {
+    "Name": "Mar De San Remo",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "79",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "72",
+        "Amount" : "30"
+      }
+    ]
+  },
+  {
+    "Name": "Absolut Blue Bell",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "40"
+      },
+      {
+        "IngredientId": "79",
+        "Amount": "20"
+      },
+      {
+        "IngredientId" : "90",
+        "Amount" : "10"
+      }
+    ]
+  },
+  {
+    "Name": "MMPH",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "60"
+      },
+      {
+        "IngredientId": "92",
+        "Amount": "20"
+      }
+    ]
+  },
+  {
+    "Name": "Piggelin",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "45",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "66",
+        "Amount" : "60"
+      }
+    ]
+  },
+  {
+    "Name": "Green Alaska",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "60"
+      },
+      {
+        "IngredientId": "33",
+        "Amount": "30"
+      }
+    ]
+  },
+  {
+    "Name": "Strong Arm",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "28",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "79",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "87",
+        "Amount" : "30"
+      }
+    ]
+  },
+  {
+    "Name": "American Tea-Grog",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "79",
+        "Amount": "5"
+      },
+      {
+        "IngredientId": "72",
+        "Amount": "60"
+      },
+      {
+        "IngredientId" : "32",
+        "Amount" : "150"
+      }
+    ]
+  },
+  {
+    "Name": "Pina Colada",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "72",
+        "Amount": "50"
+      },
+      {
+        "IngredientId": "92",
+        "Amount": "100"
+      },
+      {
+        "IngredientId" : "6",
+        "Amount" : "25"
+      }
+    ]
+  },
+  {
+    "Name": "Havana Sidecar",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "1",
+        "Amount": "30"
+      },
+      {
+        "IngredientId": "90",
+        "Amount": "30"
+      },
+      {
+        "IngredientId" : "78",
+        "Amount" : "30"
+      }
+    ]
   }
 ]
