@@ -17,9 +17,12 @@ namespace BaseData
             if (context.Ingredients.Count() < 100)
             {
                 upsertIngredients();
+                upsertColours();
             }
+
             context.RecipeIngredients.RemoveRange(context.RecipeIngredients);
             context.Recipes.RemoveRange(context.Recipes);
+            context.SaveChanges();
             upsertRecipes();
         }
 
@@ -35,6 +38,7 @@ namespace BaseData
                 recipes = JsonConvert.DeserializeObject<List<Recipes>>(json);
             }
             var rngCsp = new RNGCryptoServiceProvider();
+
             foreach (var recipe in recipes)
             {
                 foreach(var ingredient in recipe.RecipeIngredients)
@@ -74,6 +78,33 @@ namespace BaseData
 
             context.SaveChanges();
             
+        }
+        private void upsertColours()
+        {
+            var ingredients = new List<Ingredients>();
+
+            using (StreamReader sr = new StreamReader(@".\colours.json"))
+            {
+                var json = sr.ReadToEnd();
+
+                ingredients = JsonConvert.DeserializeObject<List<Ingredients>>(json);
+            }
+            var rngCsp = new RNGCryptoServiceProvider();
+            foreach (var ingredient in ingredients)
+            {
+
+                var bytes = new byte[8];
+
+                rngCsp.GetBytes(bytes);
+                var l = BitConverter.ToInt64(bytes, 0);
+                ingredient.ZobristKey = l;
+
+
+            }
+            context.Ingredients.AddRange(ingredients);
+
+            context.SaveChanges();
+
         }
     }
 }

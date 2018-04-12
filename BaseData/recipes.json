@@ -175,8 +175,8 @@
         "Amount": "150"
       },
       {
-        "IngredientId" : "90",
-        "Amount" : "30"
+        "IngredientId": "90",
+        "Amount": "30"
       }
     ]
   },
@@ -194,8 +194,8 @@
         "Amount": "150"
       },
       {
-        "IngredientId" : "90",
-        "Amount" : "30"
+        "IngredientId": "90",
+        "Amount": "30"
       }
     ]
   },
@@ -213,8 +213,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "57",
-        "Amount" : "60"
+        "IngredientId": "57",
+        "Amount": "60"
       }
     ]
   },
@@ -232,8 +232,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "87",
-        "Amount" : "60"
+        "IngredientId": "87",
+        "Amount": "60"
       }
     ]
   },
@@ -243,16 +243,16 @@
     "Ordered": "false",
     "RecipeIngredients": [
       {
-        "IngredientId": "28",
+        "IngredientId": "71",
         "Amount": "30"
       },
       {
-        "IngredientId": "28",
+        "IngredientId": "25",
         "Amount": "180"
       },
       {
-        "IngredientId" : "28",
-        "Amount" : "30"
+        "IngredientId": "28",
+        "Amount": "30"
       }
     ]
   },
@@ -270,8 +270,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "87",
-        "Amount" : "60"
+        "IngredientId": "87",
+        "Amount": "60"
       }
     ]
   },
@@ -289,8 +289,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "90",
-        "Amount" : "10"
+        "IngredientId": "90",
+        "Amount": "10"
       }
     ]
   },
@@ -347,12 +347,12 @@
       {
         "IngredientId": "60",
         "Amount": "30",
-        "Order" : "1"
+        "Order": "1"
       },
       {
         "IngredientId": "83",
         "Amount": "10",
-        "Order" : "2"
+        "Order": "2"
       }
     ]
   },
@@ -370,8 +370,8 @@
         "Amount": "3"
       },
       {
-        "IngredientId" : "70",
-        "Amount" : "20"
+        "IngredientId": "70",
+        "Amount": "20"
       }
     ]
   },
@@ -388,7 +388,7 @@
       {
         "IngredientId": "77",
         "Amount": "25",
-        "Order" : "1"
+        "Order": "1"
       }
     ]
   },
@@ -451,8 +451,8 @@
         "Amount": "45"
       },
       {
-        "IngredientId" : "11",
-        "Amount" : "45"
+        "IngredientId": "11",
+        "Amount": "45"
       }
     ]
   },
@@ -470,8 +470,8 @@
         "Amount": "10"
       },
       {
-        "IngredientId" : "41",
-        "Amount" : "20"
+        "IngredientId": "41",
+        "Amount": "20"
       }
     ]
   },
@@ -489,8 +489,8 @@
         "Amount": "20"
       },
       {
-        "IngredientId" : "65",
-        "Amount" : "20"
+        "IngredientId": "65",
+        "Amount": "20"
       }
     ]
   },
@@ -502,7 +502,7 @@
       {
         "IngredientId": "77",
         "Amount": "20",
-        "Order" : "1"
+        "Order": "1"
       },
       {
         "IngredientId": "65",
@@ -510,8 +510,8 @@
         "Order": "2"
       },
       {
-        "IngredientId" : "79",
-        "Amount" : "20",
+        "IngredientId": "79",
+        "Amount": "20",
         "Order": "3"
       }
     ]
@@ -524,7 +524,7 @@
       {
         "IngredientId": "28",
         "Amount": "10",
-        "Order" : "1"
+        "Order": "1"
       },
       {
         "IngredientId": "83",
@@ -532,8 +532,8 @@
         "Order": "2"
       },
       {
-        "IngredientId" : "45",
-        "Amount" : "20",
+        "IngredientId": "45",
+        "Amount": "20",
         "Order": "3"
       }
     ]
@@ -552,8 +552,8 @@
         "Amount": "20"
       },
       {
-        "IngredientId" : "46",
-        "Amount" : "20"
+        "IngredientId": "46",
+        "Amount": "20"
       }
     ]
   },
@@ -571,8 +571,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "69",
-        "Amount" : "150"
+        "IngredientId": "69",
+        "Amount": "150"
       }
     ]
   },
@@ -590,8 +590,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "101",
-        "Amount" : "45"
+        "IngredientId": "101",
+        "Amount": "45"
       }
     ]
   },
@@ -609,8 +609,8 @@
         "Amount": "45"
       },
       {
-        "IngredientId" : "2",
-        "Amount" : "15"
+        "IngredientId": "2",
+        "Amount": "15"
       }
     ]
   },
@@ -628,8 +628,8 @@
         "Amount": "90"
       },
       {
-        "IngredientId" : "25",
-        "Amount" : "90"
+        "IngredientId": "25",
+        "Amount": "90"
       }
     ]
   },
@@ -647,8 +647,8 @@
         "Amount": "60"
       },
       {
-        "IngredientId" : "77",
-        "Amount" : "20"
+        "IngredientId": "77",
+        "Amount": "20"
       }
     ]
   },
@@ -666,8 +666,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "67",
-        "Amount" : "30"
+        "IngredientId": "67",
+        "Amount": "30"
       }
     ]
   },
@@ -685,8 +685,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "85",
-        "Amount" : "30"
+        "IngredientId": "85",
+        "Amount": "30"
       }
     ]
   },
@@ -719,8 +719,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "72",
-        "Amount" : "30"
+        "IngredientId": "72",
+        "Amount": "30"
       }
     ]
   },
@@ -738,8 +738,8 @@
         "Amount": "20"
       },
       {
-        "IngredientId" : "90",
-        "Amount" : "10"
+        "IngredientId": "90",
+        "Amount": "10"
       }
     ]
   },
@@ -772,8 +772,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "66",
-        "Amount" : "60"
+        "IngredientId": "66",
+        "Amount": "60"
       }
     ]
   },
@@ -806,8 +806,8 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "87",
-        "Amount" : "30"
+        "IngredientId": "87",
+        "Amount": "30"
       }
     ]
   },
@@ -825,8 +825,8 @@
         "Amount": "60"
       },
       {
-        "IngredientId" : "32",
-        "Amount" : "150"
+        "IngredientId": "32",
+        "Amount": "150"
       }
     ]
   },
@@ -844,8 +844,8 @@
         "Amount": "100"
       },
       {
-        "IngredientId" : "6",
-        "Amount" : "25"
+        "IngredientId": "6",
+        "Amount": "25"
       }
     ]
   },
@@ -863,8 +863,102 @@
         "Amount": "30"
       },
       {
-        "IngredientId" : "78",
-        "Amount" : "30"
+        "IngredientId": "78",
+        "Amount": "30"
+      }
+    ]
+  },
+  {
+    "Name": "Green",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "104",
+        "Amount": "100"
+      },
+      {
+        "IngredientId": "102",
+        "Amount": "100"
+      }
+    ]
+  },
+  {
+    "Name": "Purple",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "103",
+        "Amount": "100"
+      },
+      {
+        "IngredientId": "102",
+        "Amount": "100"
+      }
+    ]
+  },
+  {
+    "Name": "Orange",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "104",
+        "Amount": "100"
+      },
+      {
+        "IngredientId": "103",
+        "Amount": "50"
+      }
+    ]
+  },
+  {
+    "Name": "Indigo",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "102",
+        "Amount": "100"
+      },
+      {
+        "IngredientId": "103",
+        "Amount": "50"
+      }
+    ]
+  },
+  {
+    "Name": "Light Green",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "102",
+        "Amount": "100"
+      },
+      {
+        "IngredientId": "104",
+        "Amount": "50"
+      }
+    ]
+  },
+  {
+    "Name": "Brown",
+    "Description": "",
+    "Ordered": "false",
+    "RecipeIngredients": [
+      {
+        "IngredientId": "102",
+        "Amount": "75"
+      },
+      {
+        "IngredientId": "103",
+        "Amount": "75"
+      },
+      {
+        "IngredientId": "104",
+        "Amount": "75"
       }
     ]
   }
